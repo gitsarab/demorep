@@ -1,2 +1,2 @@
-sdfjsdjgsjg
-sdgkosjgkfj
+This is an example for Merge Conflict
+
