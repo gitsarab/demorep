@@ -1,2 +1,2 @@
-This is an example for Merge Conflict
+This is an example for Merge conflict
 
